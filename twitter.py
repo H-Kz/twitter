@@ -156,5 +156,5 @@ if __name__ == "__main__":
     import datetime
     twitter_id = "XXXXXXXXXX"
     text = "TweetText"
-    path = "/home/h-kz/Desktop/tweet_everyday_3hpc.gif"
+    path = "/home/user/PATH_TO_YOUR_MEDIA_FILE"
     tweet_movie(text,path,twitter_id)
