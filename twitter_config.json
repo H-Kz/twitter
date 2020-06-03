@@ -1,0 +1,14 @@
+{
+    "YOUR_TWITTER_INTERNAL_ID":{
+        "CONSUMER_KEY" : "YOUR_KEY",
+        "CONSUMER_SECRET" : "YOUR_KEY",
+        "ACCESS_TOKEN" : "YOUR_KEY",
+        "ACCESS_TOKEN_SECRET" : "YOUR_KEY"
+    },
+    "YOUR_TWITTER_INTERNAL_ID":{
+        "CONSUMER_KEY" : "YOUR_KEY",
+        "CONSUMER_SECRET" : "YOUR_KEY",
+        "ACCESS_TOKEN" : "YOUR_KEY",
+        "ACCESS_TOKEN_SECRET" : "YOUR_KEY"
+    }
+}
