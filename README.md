@@ -7,7 +7,8 @@ jsonファイルの"YOUR_TWITTER_INTERNAL_ID"、"YOUR_KEY"4つを自分のもの
 
 pythonからtweet.pyを読み込み、
 
-'''python
+```
+python
 import tweet
 twitter_id = YOUR_TWITTER_INTERNAL_ID
 # テキストのみツイートする
@@ -20,4 +21,4 @@ tweet.tweet_picture("ツイートしたいテキスト本文","path/to/your/imag
 # 動画付きツイート
 # GIFアニメは15MBまで、MP4動画の上限はわかんない
 tweet.tweet_movie("ツイートしたいテキスト本文","path/to/your/movie",twitter_id)
-'''
+```
