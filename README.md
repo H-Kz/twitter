@@ -7,8 +7,7 @@ jsonファイルの"YOUR_TWITTER_INTERNAL_ID"、"YOUR_KEY"4つを自分のもの
 
 pythonからtweet.pyを読み込み、
 
-```
-python
+```python
 import tweet
 twitter_id = YOUR_TWITTER_INTERNAL_ID
 # テキストのみツイートする
