@@ -3,8 +3,10 @@ twitterに投稿するスクリプト
 
 ## How to tweet text
 
+### 事前準備
 jsonファイルの"YOUR_TWITTER_INTERNAL_ID"、"YOUR_KEY"4つを自分のものに変更
 
+### ツイート実行
 pythonからtweet.pyを読み込み、
 
 ```python
