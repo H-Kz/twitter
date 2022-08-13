@@ -8,7 +8,7 @@ url_text = "https://api.twitter.com/1.1/statuses/update.json"#ツイートポス
 
 def config(twitter_id):
 
-    with open("/home/h-kz/shutokou/twitter_config.json") as json_file:
+    with open("twitter_config.json") as json_file:
         config = json.load(json_file)
 
     CK = config[str(twitter_id)]["CONSUMER_KEY"]
